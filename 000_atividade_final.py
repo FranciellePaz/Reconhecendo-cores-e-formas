@@ -1,8 +1,8 @@
 import cv2
 import numpy as np 
 
-#lower = {'red': (166, 84,141), 'blue':(97, 100, 117), 'yellow': (23, 59, 119)}
-#upper = {'red': (186, 255, 255), 'blue': (117, 255, 255),'yellow': (54, 255, 255) }
+#lower = {'red': (166, 84,141), 'blue':(97, 100, 117), 'green': (36, 0, 0)}
+#upper = {'red': (186, 255, 255), 'blue': (117, 255, 255),'green': (75, 255, 255) }
 
 
 #Função para redimensionar a imagem 
